@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MazeRunner()
+comment0.text=\r\n\ Creates\ a\ new\ MazeRunner\ object.\r\n
+comment1.params=
+comment1.target=void\ clearMap()
+comment1.text=\r\n\ While\ the\ world\ still\ has\ flowers\ and\ nets,\ continue\ navigating.\r\n\ Pick\ flowers\ and\ clear\ nets.\r\n
+comment2.params=
+comment2.target=void\ finalDestination()
+comment2.text=\r\n\ This\ brings\ the\ jeroo\ to\ the\ ending\ location.\r\n
+numComments=3
